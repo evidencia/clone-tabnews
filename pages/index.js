@@ -1,5 +1,5 @@
 function Home (){
-    return <h1>hello wolrd, bady</h1>
+    return <h1>Home next js</h1>
 }
 
 export default Home
